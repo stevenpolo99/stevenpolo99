@@ -42,3 +42,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenpolo99&layout=compact&theme=tokyonight"/>
 
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
