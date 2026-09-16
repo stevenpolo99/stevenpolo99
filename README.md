@@ -13,3 +13,14 @@
 <p align="center">
   🐍 Python • ☕ Java • 🌐 PHP • 🗄️ MySQL • 🐧 Linux
 </p>
+## 👨‍💻 About Me
+
+- 🎓 Systems Engineering student
+- 💻 Interested in Software Development
+- 🔐 Learning Cybersecurity
+- 🐍 Working with Python
+- ☕ Learning Java
+- 🌐 Web Development with PHP, HTML and CSS
+- 🗄️ Databases with MySQL
+- 🐧 Learning Linux and network security
+- 🚀 Always learning new technologies
