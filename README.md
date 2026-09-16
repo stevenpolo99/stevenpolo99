@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,php,html,css,mysql,linux,git,github,vscode" />
 
 </p>
-## Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stevenpolo99&label=Profile%20Views&color=00bfff&style=flat-square" />
 </p>
