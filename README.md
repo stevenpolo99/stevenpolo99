@@ -24,3 +24,11 @@
 - 🗄️ Databases with MySQL
 - 🐧 Learning Linux and network security
 - 🚀 Always learning new technologies
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,php,html,css,mysql,linux,git,github,vscode" />
+
+</p>
