@@ -33,12 +33,6 @@
 
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenpolo99&show_icons=true&theme=tokyonight" />
-</p>
-
 ## 🚀 Featured Projects
 
 ### 🔐 University Access Control System
