@@ -39,6 +39,31 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenpolo99&show_icons=true&theme=tokyonight"/>
 
+## 🚀 Featured Projects
+
+### 🔐 University Access Control System
+Access control system using RFID and biometric technologies.
+
+**Technologies:**
+`PHP` `MySQL` `Java` `RFID`
+
+---
+
+### 🎧 Speech Analytics
+
+System for analyzing and transcribing call center conversations.
+
+**Technologies:**
+`Python` `Faster-Whisper` `FFmpeg` `Pandas`
+
+---
+
+### 🐶 CanPetit
+
+Web application for information about dog breeds, care and feeding.
+
+**Technologies:**
+`PHP` `MySQL` `HTML` `CSS`
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenpolo99&layout=compact&theme=tokyonight"/>
 
 </p>
