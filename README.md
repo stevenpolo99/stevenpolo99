@@ -14,6 +14,7 @@
 <p align="center">
   🐍 Python • ☕ Java • 🌐 PHP • 🗄️ MySQL • 🐧 Linux
 </p>
+
 ## 👨‍💻 About Me
 
 - 🎓 Systems Engineering student
